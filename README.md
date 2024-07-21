@@ -4,17 +4,19 @@ The application is built using Express.js, MongoDB, Mongoose, EJS, and
 Passport.js.User authentication and session management CRUD operations for property 
 listings and reviews Booking accommodations .Enhanced trust and transparency through user reviews<P>>
 
-#Installation
+##Installation
 
-#Clone the repository:
+##Clone the repository:
 
-"git clone https://github.com/yourusername/property-rentals.git cd property-rentals"
-
-#Install dependencies:
-
+git clone
+```
+ https://github.com/yourusername/property-rentals.git cd property-rentals"
+```
+##Install dependencies:
+```
 "npm install"
-
-#Set up environment variables:
+```
+##Set up environment variables:
 
 Create a .env file in the root directory and add the following variables:
 
@@ -26,7 +28,7 @@ SESSION_SECRET=your_session_secret
 
 Start the application: node app.js
 
-#Usage Sign Up: 
+##Usage Sign Up: 
 Create an account to access the application. List a Property: 
 Navigate to the "Add Property" section to list your property.
 Book a Property: Browse available properties and book the one that 
