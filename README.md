@@ -1,3 +1,9 @@
+
+## Live Demo
+
+You can view the live demo of this project at [https://property-rental-platform.onrender.com/listings](https://property-rental-platform.onrender.com/listings).
+
+
 <p>Property Rentals Web Application This is a web application for property rentals, 
 allowing users to list properties, book accommodations, and leave reviews.
 The application is built using Express.js, MongoDB, Mongoose, EJS, and 
